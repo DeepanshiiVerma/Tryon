@@ -6,6 +6,7 @@ import About from "./Sections/About";
 import Library from "./Sections/Library";
 import Contact from "./Sections/Contact";
 
+
 const Home = lazy(() => import("./Pages/Home"));
 const Header = lazy(() => import("./components/Header/index"));
 const Footer = lazy(() => import("./components/Footer/index"));
