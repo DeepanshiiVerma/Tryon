@@ -1,6 +1,6 @@
 # 🧥 Virtual Try-On Web App
 
-A modern web application that **lets users try on clothes virtually** by uploading their photo along with a clothing image. Powered by an AI-based virtual try-on API from **RapidAPI**, this tool revolutionizes online shopping and fashion experiences.
+A modern web application that **lets users try on clothes virtually** by uploading their photo along with a clothing image. Powered by an AI-based virtual try-on API from **RapidAPI**, this tool revolutionizes online shopping and fashion experiences. 
 
 ---
 
