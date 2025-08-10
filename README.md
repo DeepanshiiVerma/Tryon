@@ -4,7 +4,7 @@ A modern web application that **lets users try on clothes virtually** by uploadi
 
 ---
 
-## 📸 How It Works    
+## 📸 How It Works     
 
 1. **Upload Your Photo** – Provide a clear image of yourself.
 2. **Upload Clothing Image** – Choose any dress/shirt/pant image you want to try on.
